@@ -15,7 +15,7 @@
   </Resources>
   <Applications>
     <Application Id="App" Executable="$targetnametoken$.exe" EntryPoint="GitTestProject.App">
-      <VisualElements DisplayName="GitTestProject" Logo="Assets\Logo.png" SmallLogo="Assets\SmallLogo.png" Description="GitTestProject Description Update" ForegroundText="light" BackgroundColor="#464646">
+      <VisualElements DisplayName="GitTestProject" Logo="Assets\Logo.png" SmallLogo="Assets\SmallLogo.png" Description="GitTestProject Description Update 2" ForegroundText="light" BackgroundColor="#464646">
         <DefaultTile ShowName="allLogos" />
         <SplashScreen Image="Assets\SplashScreen.png" />
       </VisualElements>
